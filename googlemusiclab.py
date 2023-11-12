@@ -1,3 +1,6 @@
+#Note: I run this on a 1080p monitor in windowed fullscreen
+#So this might not work with other settings
+
 ###############
 from PIL import ImageGrab
 from PIL import Image
